@@ -1,0 +1,10 @@
+tensorflow-gpu
+keras
+matplotlib
+opencv-python
+alt-model-checkpoint
+pydot
+GraphViz
+editdistance
+tqdm
+pillow

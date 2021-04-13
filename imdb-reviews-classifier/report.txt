@@ -1,0 +1,10 @@
+SVM Accuracy Score:  88.29599999999999
+              precision    recall  f1-score   support
+
+         neg       0.88      0.88      0.88     12500
+         pos       0.88      0.88      0.88     12500
+
+   micro avg       0.88      0.88      0.88     25000
+   macro avg       0.88      0.88      0.88     25000
+weighted avg       0.88      0.88      0.88     25000
+
